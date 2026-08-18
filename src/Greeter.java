@@ -3,3 +3,9 @@ public class Greeter {
         return "Hello, " + name;
     }
 }
+
+class Farewell {
+    public String farewell(String name) {
+        return "Goodbye, " + name;
+    }
+}

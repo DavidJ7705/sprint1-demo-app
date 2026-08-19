@@ -14,3 +14,10 @@ class Farewell {
         return "hi " + name;
     }
 }
+
+class JayPopat{
+
+    public String popat(String name) {
+        return "Jay" + name;
+    }
+}

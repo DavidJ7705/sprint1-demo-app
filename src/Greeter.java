@@ -9,4 +9,8 @@ class Farewell {
     public String farewell(String name) {
         return "Goodbye, " + name;
     }
+
+    public String hi(String name) {
+        return "hi " + name;
+    }
 }
